@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\bin\Debug\netcoreapp3.1\Aula1.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\estudo_mvc\Aula1\obj\Debug\netcoreapp3.1\Aula1.genruntimeconfig.cache
